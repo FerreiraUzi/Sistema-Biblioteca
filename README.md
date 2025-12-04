@@ -44,7 +44,5 @@ Sistema de cadastro de livros em Java (Interface em Swing)
     INSERT INTO livros (titulo, autor, genero, ano_publicacao, preco, quantidade_estoque) VALUES
     ('Dom Casmurro', 'Machado de Assis', 'Romance', 1899, 29.90, 15),
     ('1984', 'George Orwell', 'Distopia', 1949, 39.50, 8),
-    ('O Hobbit', 'J.R.R. Tolkien', 'Fantasia', 1937, 45.00, 12),
-    ('Cosmos', 'Carl Sagan', 'Ciência', 1980, 55.90, 5),
-    ('A Sutil Arte de Ligar o F*da-se', 'Mark Manson', 'Autoajuda', 2016, 34.90, 20);
+   
 
